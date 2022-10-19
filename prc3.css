@@ -1,0 +1,26 @@
+li{
+    color: blue;
+}
+
+.done{
+    color: grey;
+
+}
+
+#clear{
+    background-color: red;
+    color: white;
+}
+
+
+.indo {
+    font-size: 100px;
+    color: teal;
+    background-color: red;
+    color: blue;
+}
+
+#dislkes a {
+    font-weight: bold;
+    color: red;
+}
